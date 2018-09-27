@@ -18,6 +18,7 @@ if (! function_exists('link_to')) {
     }
 }
 
+
 if (! function_exists('link_to_asset')) {
     /**
      * Generate a HTML link to an asset.
